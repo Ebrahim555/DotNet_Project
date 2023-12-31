@@ -1,0 +1,6 @@
+C:\Users\Mdebr\Desktop\KetabKhana\PL\DAL\bin\Debug\DAL.dll
+C:\Users\Mdebr\Desktop\KetabKhana\PL\DAL\bin\Debug\DAL.pdb
+C:\Users\Mdebr\Desktop\KetabKhana\PL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Mdebr\Desktop\KetabKhana\PL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mdebr\Desktop\KetabKhana\PL\DAL\obj\Debug\DAL.dll
+C:\Users\Mdebr\Desktop\KetabKhana\PL\DAL\obj\Debug\DAL.pdb
